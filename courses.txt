@@ -1,2 +1,3 @@
 networking
 scripting
+A+ Core 1
