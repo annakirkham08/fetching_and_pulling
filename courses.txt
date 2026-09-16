@@ -1,2 +1,4 @@
 networking
 client-side web development
+scripting
+A+ Core 1
